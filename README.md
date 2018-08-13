@@ -1,0 +1,2 @@
+# pysin
+python system info
